@@ -1,0 +1,103 @@
+use,occurrence_positions,domain_tool,domain_accessory,domain_construction,domain_philosophical,domain_miscellaneous
+build house / home construction,0;1;0;0;0;0;1;0;1;1;0,,,x,,
+chimney ,1;2,,,x,,
+build wall ,2;0;1;1;2;4,,,x,,
+floor construction,3;1,,,x,,
+paper weight,4;0;2;13;0;1;0,x,,,,
+(melee) weapon,5;1;0;1,x,,,,
+projectile,6,,,,,x
+build deck,7,,,x,,
+build flowerpot,8,,,x,,
+build barbecue,9,,,x,,
+brick (garden) path / walkway,0;5;3;3,,,x,,
+planter holder,1,,,x,,
+garden bench,2;5,,,x,,
+waterfall construction,3;6,,,x,,
+birdbath,4;7,,,x,,
+yard art,5,,,x,,
+brick fire pit,6;3;3;5;3;0,,,x,,
+use (fitness) weights (lifting),2;6;10;5;1,,,,,x
+pavement construction,3;3,,,x,,
+throwing,0;4,,,,,x
+candle holder,1,x,,,,
+flatten something (dough) ,2;7,x,,,,
+book end,2;0;2;1,x,,,,
+coconut opener,3,x,,,,
+door wedge / doorstop,4;0;0;4;3,x,,,,
+hammer,5;12,x,,,,
+car pedal holder,7,x,,,,
+build oven,1,,,x,,
+insect killer,2,x,,,,
+skin exfoliator,3,x,,,,
+can opener ,4,x,,,,
+bottle opener,5,x,,,,
+balloon popper,6,x,,,,
+to build / construction / brickwork,0;2;3;0;1,,,x,,
+planter / plant holder / flowerpot,1;1;5;1;3;4,,,x,,
+to break a window,3;2,x,,,,
+hold down (light) objects (firewood tarp) fly away,4;0;7;0,x,,,,
+trace for (sidewalk) drawing,5;12;4,x,,,,
+pen / pencil / marker / toothbrush / lipstick / candle / beer holder,6;3;4;5;14;0;0,x,,,,
+to paint on (surface),8;11,,,,,x
+for stacking (them),9,,,,,x
+hit person / someone,1;1,x,,,,
+(walkway) decoration,2;3,,,,,x
+reed diffuser stick holder,3,x,,,,
+fill holes with jello,4,x,,,,
+as a pet (put a string on it),5,,,,,x
+to block,1,x,,,,
+to attack,2,x,,,,
+to organize ,0,,,,,x
+to obstruct ,1,x,,,,
+to restrict ,3,,,,,x
+to damage / scratch ,4;14,x,,,,
+buildings (tower / church / school / restaurant / store / lighthouse),2;6;7;8;9;0,,,x,,
+build  porch,4,,,x,,
+pick it up,15,,,,,x
+hit it like a drum,16,x,,,,
+sit on it / chair / stool / outdoor seat,17;10;1;5,,,,,x
+keep car (from rolling) / stop car,1;3,x,,,,
+tealight holder,2;2,x,,,,
+(spaghetti) measure,4,x,,,,
+(car) booster seat ,5,x,,,,
+put in toilet tank,4,,,,,x
+picture frame,2,,,,,x
+drying rack,6,x,,,,
+stepping stool (be taller),7;2;4;2,,,,,x
+balloon holder,8,x,,,,
+phone holder,9,x,,,,
+foot rest,11,,,,,x
+pillow,13,,,,,x
+make ladder,0,,,x,,
+sanding weight,2,x,,,,
+car jack,3,x,,,,
+DIY projects,1,,,x,,
+building a garden,2,,,x,,
+building furniture,4;1,,,x,,
+(indoor) fireplace,1;2;2,,,x,,
+build a door,0,,,x,,
+adding weight to objects ,5;10,x,,,,
+sinking objects,6,x,,,,
+break / smash objects,7;6,x,,,,
+blocking a view,8,x,,,,
+negative ballast,1,x,,,,
+basemen (baseball),3,x,,,,
+cooking (BBQ) stand ,0;0,,,x,,
+outdoor fence,3,,,x,,
+nut cracker,3,x,,,,
+podium,2,,,x,,
+yoga block,5,,,,,x
+(mini) sled for dolls,8,,x,,,
+mice shelter ,9,,,x,,
+garden border,0,,,x,,
+edging a walkway,2,,,x,,
+crush and use for artwork,4,,,,,x
+(theater) play prop ,6,,,,,x
+hit something,0,x,,,,
+bird  nest,2,,,x,,
+weight machine test tool,6,x,,,,
+delimit a zone ,7,x,,,,
+fill a hole,8,,,,,x
+hide thing,1,,,,,x
+play with ,2,,,,,x
+elevate hot water tank,1,x,,,,
